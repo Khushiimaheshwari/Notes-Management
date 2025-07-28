@@ -1,4 +1,4 @@
-# CodingJunior_Assignment
+# Notes Management - Using Golang and Fiber
 
 ## Overview
 
